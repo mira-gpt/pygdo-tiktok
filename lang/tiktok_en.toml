@@ -1,0 +1,3 @@
+module_tiktok = "TikTok"
+tiktok_live_user = "TikTok LIVE creator"
+tt_tiktok_live_user = "Creator handle whose LIVE chat should be monitored when the connector is implemented."
