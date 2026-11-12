@@ -1,1 +1,1 @@
-"""TikTok LIVE connector skeleton for PyGDO."""
+from gdo.tiktok.module_tiktok import module_tiktok
